@@ -12,7 +12,7 @@ namespace _1911065165_HoChiCong_BigSchool.Controllers
 {
     public class CoursesController : Controller
     {
-        //Ho chi cong
+        //Ho chi cong 2001
         // GET: Courses
         private readonly ApplicationDbContext _dbcontext;
         public CoursesController()
